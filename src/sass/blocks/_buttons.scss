@@ -1,0 +1,14 @@
+.button {
+    padding: 11px 20px 15px 19px;
+    font-size: 13px;
+    line-height: 14px;
+    color: #FFFFFF;
+    background-color: #2F2F2F;
+    border-radius: 20px;
+    border: none;
+    cursor: pointer;
+    &--about {
+        padding: 12px 40px 16px 40px;
+        border-radius: 0;
+    }
+}

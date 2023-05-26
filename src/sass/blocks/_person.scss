@@ -1,0 +1,61 @@
+.digital__nfts-person {
+    font-weight: 400;
+    background-color: rgba(255, 255, 255, 0.85);
+    box-shadow: 0px -4px 19px rgba(0, 0, 0, 0.03);
+    border-radius: 30px;
+    &--one {
+        position: absolute;
+        top: 15px;
+        left: -19px;
+        padding-top: 15px;
+        max-width: 105px;
+        padding: 5px 5px 5px 37px;
+        &::before {
+            position: absolute;
+            display: block;
+            content: '';
+            width: 24px;
+            height: 24px;
+            background-image: url(../img/person/person-1.png);
+            top: 4px;
+            left: 5px;
+        }
+    }
+    &--two {
+        position: absolute;
+        bottom: 22px;
+        left: 106px;
+        max-width: 160px;
+        padding: 13px 13px 13px 65px;
+        &::before {
+            position: absolute;
+            display: block;
+            content: '';
+            width: 41px;
+            height: 41px;
+            background-image: url(../img/person/person-two.png);
+            top: 8px;
+            left: 10px;
+        }
+    }
+}
+
+.digital__nfts-name--one {
+    font-size: 11px;
+    line-height: 11px;
+}
+
+.digital__nfts-post--one {
+    font-size: 9px;
+    line-height: 11px;
+}
+
+.digital__nfts-name--two {
+    font-size: 16px;
+    line-height: 16px;
+}
+
+.digital__nfts-post--two {
+    font-size: 11px;
+    line-height: 13px;
+}
