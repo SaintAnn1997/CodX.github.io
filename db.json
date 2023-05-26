@@ -1,0 +1,67 @@
+{
+  "tabs": [
+    {
+      "img": "img/collections/Collectibles.png",
+      "altimg": "collectibles",
+      "title": "Collectibles"
+    },
+    {
+      "img": "img/collections/Art.png",
+      "altimg": "Art",
+      "title": "Art"
+    },
+    {
+      "img": "img/collections/Photography.png",
+      "altimg": "Photography",
+      "title": "Photography"
+    },
+    {
+      "img": "img/collections/Collectibles.png",
+      "altimg": "collectibles",
+      "title": "Collectibles"
+    },
+    {
+      "img": "img/collections/Art.png",
+      "altimg": "Art",
+      "title": "Art"
+    },
+    {
+      "img": "img/collections/Photography.png",
+      "altimg": "Photography",
+      "title": "Photography"
+    }
+  ],
+  "nft": [
+    {
+      "img": "img/nft/bear.png",
+      "altimg": "White Bear",
+      "title": "White Bear",
+      "number": "#54385"
+    },
+    {
+      "img": "img/nft/bear.png",
+      "altimg": "White Bear",
+      "title": "White Bear",
+      "number": "#54385"
+    },
+    {
+      "img": "img/nft/bear.png",
+      "altimg": "White Bear",
+      "title": "White Bear",
+      "number": "#54385"
+    },
+    {
+      "img": "img/nft/bear.png",
+      "altimg": "White Bear",
+      "title": "White Bear",
+      "number": "#54385"
+    },
+    {
+      "img": "img/nft/bear.png",
+      "altimg": "White Bear",
+      "title": "White Bear",
+      "number": "#54385"
+    }
+  ],
+  "requests": []
+}
